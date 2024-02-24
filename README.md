@@ -12,4 +12,4 @@ Parallel eFuse Dev Board for Robotics @ Maryland. 30 Amp paralleled TPS25982 eFu
 <br>_Fig 3. 3D Model (no components)_<br><br>
 
 ![image](https://github.com/JermYeWorm/Parallel_eFuse/assets/113321384/0d1fdcf0-d982-48fb-aeb5-86a506597731)
-<br>_Fig 2. 3D Model (mounted)_<br><br>
+<br>_Fig 4. 3D Model (mounted)_<br><br>
