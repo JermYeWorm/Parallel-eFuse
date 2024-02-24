@@ -1,7 +1,8 @@
-# Parallel eFuse
+# Parallel eFuse Development Board
 Parallel eFuse Dev Board for Robotics @ Maryland. Paralleled TPS25982 15A eFuse protection board designed to protect against current transients of up to 30A from RoboSub's electronic speed controllers. Built with KiCad 7.0.
 <br><br>
 
+## Design Visuals
 ![image](https://github.com/JermYeWorm/Parallel_eFuse/assets/113321384/b3916656-1094-4327-8606-ad2ba1c201f2)
 <br>_Fig 1. Schematic Capture_<br><br>
 
